@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1741722248,
+	"Version": 1741726448,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "No survivor repeat",
 	"Tiers": [
@@ -1004,6 +1004,7 @@
 				"76",
 				"92",
 				"102",
+				"109",
 				"121",
 				"127",
 				"128"
