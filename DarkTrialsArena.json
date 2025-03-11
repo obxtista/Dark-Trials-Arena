@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1741661292,
+	"Version": 1741721371,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "No survivor repeat",
 	"Tiers": [
@@ -1099,43 +1099,13 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				1,
 				2,
-				3,
 				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15,
-				16,
-				17
+				6
 			],
 			"KillerOfferings": [
 				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15,
-				16
+				1
 			]
 		},
 		{
