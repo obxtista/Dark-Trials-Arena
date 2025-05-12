@@ -3239,7 +3239,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "If items are found in chests, they must\nimmediately be removed and left beside them. If this rule\nis infringed, the team will suffer a punishment corresponding to the impact of the\nuse of the item in the game, which can range from a score in the game to a\nORANGE warning",
+			"KillerNotes": "Survivors are not allowed to open Vecna-specific Treasure",
 			"IsDisabled": false,
 			"Map": [
 				"33"
