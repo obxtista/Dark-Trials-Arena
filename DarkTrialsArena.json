@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1746573214,
+	"Version": 1747593664,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2956,7 +2956,9 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				8,
+				14
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2971,10 +2973,18 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
