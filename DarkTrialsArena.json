@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1747607531,
+	"Version": 1747795034,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -489,7 +489,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -501,7 +501,8 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"151",
-				"204"
+				"204",
+				"220"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -1325,6 +1326,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
+				"151",
 				"204",
 				"220"
 			],
@@ -1994,6 +1996,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
+				"151",
 				"204",
 				"220"
 			],
