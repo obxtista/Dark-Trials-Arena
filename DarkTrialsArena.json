@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1750553845,
+	"Version": 1750721729,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -109,6 +109,8 @@
 				"168",
 				"169",
 				"170",
+				"282",
+				"283",
 				"171",
 				"172",
 				"174",
@@ -126,6 +128,7 @@
 				"198",
 				"271",
 				"205",
+				"284",
 				"209",
 				"211",
 				"216",
@@ -3589,7 +3592,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
