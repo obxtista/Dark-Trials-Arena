@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1750721729,
+	"Version": 1750723170,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -297,13 +297,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -389,13 +387,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -478,13 +474,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -584,13 +578,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -675,13 +667,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -771,13 +761,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -859,13 +847,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -948,13 +934,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1029,13 +1013,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1106,13 +1088,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1200,13 +1180,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1304,13 +1282,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1402,13 +1378,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1485,13 +1459,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1568,13 +1540,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1658,13 +1628,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1739,13 +1707,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1821,13 +1787,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1899,13 +1863,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -1974,13 +1936,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2076,13 +2036,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2156,13 +2114,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2238,13 +2194,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2324,13 +2278,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2406,13 +2358,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2485,13 +2435,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2575,13 +2523,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2662,13 +2608,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2745,13 +2689,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2831,13 +2773,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -2912,13 +2852,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3003,13 +2941,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3084,13 +3020,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3165,13 +3099,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3247,13 +3179,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3328,13 +3258,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3408,13 +3336,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3491,13 +3417,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3580,13 +3504,11 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
@@ -3634,8 +3556,13 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2
+			],
+			"KillerOfferings": [
+				0,
+				1
+			]
 		}
 	]
 }
