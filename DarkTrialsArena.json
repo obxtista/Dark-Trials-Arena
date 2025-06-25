@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1750723170,
+	"Version": 1750815019,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3225,7 +3225,8 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [
-				4
+				4,
+				3
 			],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
