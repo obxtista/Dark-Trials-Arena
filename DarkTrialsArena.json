@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1750815019,
+	"Version": 1750900010,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -888,6 +888,7 @@
 				"76",
 				"102",
 				"112",
+				"121",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1047,6 +1048,7 @@
 				"261",
 				"57",
 				"76",
+				"121",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1896,6 +1898,7 @@
 				"39",
 				"61",
 				"76",
+				"121",
 				"123",
 				"127"
 			],
