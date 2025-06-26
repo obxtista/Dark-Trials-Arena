@@ -1,6 +1,6 @@
 {
 	"Name": "Dark Trials Arena",
-	"Version": 1750900010,
+	"Version": 1750900038,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"18",
 				"247",
 				"19",
+				"20",
 				"22",
 				"24",
 				"25",
